@@ -6,7 +6,7 @@ This is a simple script that scans a domain for all redirected pages and links. 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/who0ze/site_page_search.git
+    git clone https://github.com/who0ze/Site-Page-Crawl-and-Redirected-Page-Crawl
     ```
 
 2. Install the required dependencies:
